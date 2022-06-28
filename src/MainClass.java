@@ -21,6 +21,7 @@ public class MainClass {
         //아이템 리스트를 받아서 전달
         ArrayList<ItemClass> list = ns.getItemList();
         pc.play3(num, list);
+        pc.play3(num, list);
 
 
     }
